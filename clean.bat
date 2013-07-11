@@ -1,1 +1,1 @@
-msbuild /t:Clean
+git clean -xdf
